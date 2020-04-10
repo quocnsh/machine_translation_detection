@@ -12,9 +12,9 @@
 - Training with one language: 
 `python run_generator.py --train_languages de --test_language de`
 - Training with multiple languages: 
-`python run_generator.py --train_languages de,ru --test_language de`
+`python run_generator.py --train_languages ru,de --test_language ru`
 # Support
-- The supported languages are `de`(German) and `ru`(Russian)
+- The supported languages are `ru`(Russian) and `de`(German)
 
 # Acknowledgments
 - Code refer to: [BERT](https://github.com/google-research/bert).
