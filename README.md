@@ -15,3 +15,6 @@
 `python run_generator.py --train_languages de,ru --test_language de`
 # Support
 - The supported languages are `de`(German) and `ru`(Russian)
+
+# Acknowledgments
+- Code refer to: [BERT](https://github.com/google-research/bert).
