@@ -9,9 +9,9 @@
 - Download BERT-Base pretrained model and put in the folder: `bert/uncased_L-12_H-768_A-12`
 
 # Running 
-## With one language
+1. With one language
 `python run_generator.py --train_languages de --test_language de`
-## With multiple languages
+2. With multiple languages
 `python run_generator.py --train_languages de,ru --test_language de`
 # Support
 - The supported languages are de (German) and ru (Russian)
