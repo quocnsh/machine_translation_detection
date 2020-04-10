@@ -9,7 +9,6 @@
 - Download BERT-Base pretrained model and put in ./bert/uncased_L-12_H-768_A-12 folder
 
 # Running 
-- run file with following parameter
 - python run_generator.py --train_languages de,ru --test_language de
 
 # Support
