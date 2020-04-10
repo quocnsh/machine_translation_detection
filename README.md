@@ -1,4 +1,4 @@
-# machine_translation_detection
+# Machine Translation Text Detection
 
 # Requirement:
 - tensorflow 1.14
