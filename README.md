@@ -1,6 +1,6 @@
 # Machine Translation Text Detection
 
-# Requirement:
+# Requirement
 - tensorflow 1.14
 - torch 1.4.0
 - fairseq 0.9.0
