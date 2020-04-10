@@ -14,4 +14,4 @@
 - Training with multiple languages: 
 `python run_generator.py --train_languages de,ru --test_language de`
 # Support
-- The supported languages are `de (German)` and ru `(Russian)`
+- The supported languages are `de`(German) and `ru`(Russian)
