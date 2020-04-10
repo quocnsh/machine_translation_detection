@@ -10,7 +10,7 @@
 
 # Running 
 - run file with following parameter
-python run_generator.py --train_languages de,ru --test_language de
+- python run_generator.py --train_languages de,ru --test_language de
 
 # Support
 - The supported languages are de (German) and ru (Russian)
